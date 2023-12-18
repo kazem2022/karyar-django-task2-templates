@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class LandyConfig(AppConfig):
-    default_auto_field = 'django.db.models.BigAutoField'
-    name = 'landy'
+    default_auto_field = "django.db.models.BigAutoField"
+    name = "landy"
